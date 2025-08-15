@@ -2,7 +2,7 @@
 Personal finance dashboard showing total income, expenses profit/deficit, expenses per category, credit card expenses and many other useful metrics. Values can be filtered by date, account, merchant and category; allowing detailed finance tracking. 
 
 ## Demo Video ** CLICK TO VIEW VIDEO **
-[![Watch the video][((https://github.com/Jcooking26/Personal-Analysis-Projects/blob/0b06f382cdec66e0f1a9eea3373b4c495c475260/Personal%20Finance%20Dashboard/pics/thumbnail.png)](https://www.linkedin.com/posts/jerry-cook-iii-447166138_financedashboard-financialplanning-money-activity-7362095034218815489-HMfR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACF7nPcBNrTTisEKV5JYY0i_CvXWBZG3vPU)
+[![Watch the video](https://github.com/Jcooking26/Personal-Analysis-Projects/blob/0b06f382cdec66e0f1a9eea3373b4c495c475260/Personal%20Finance%20Dashboard/pics/thumbnail.png)](https://www.linkedin.com/posts/jerry-cook-iii-447166138_financedashboard-financialplanning-money-activity-7362095034218815489-HMfR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACF7nPcBNrTTisEKV5JYY0i_CvXWBZG3vPU)
 
 ## Dashboard Pages
 * Finance Summary
